@@ -1,4 +1,4 @@
-📱<h1><bold> Smartphone Usage Analysis (Python Project)</bold></h1>
+<h1><bold> 📱 Smartphone Usage Analysis (Python Project)</bold></h1>
 
 ## 📌 Description
 This project analyzes smartphone usage data using Python to understand daily usage patterns, screen time behavior, and activity trends over a one-year period.
